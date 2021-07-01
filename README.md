@@ -33,4 +33,4 @@
 ![Terrain Modifier](./Attachment/images/TerrainModifier.gif)
 
 ------
-Copyright © 2021 Mogoson. mogoson@outlook.com
+Copyright © 2021 Mogoson.	mogoson@outlook.com
