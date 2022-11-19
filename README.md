@@ -1,3 +1,5 @@
+[TOC]
+
 ﻿# MGS.TerrainModifier
 
 ## Summary
@@ -26,11 +28,6 @@
 ## Warning
 1. "Modify" operate can not be recovered, make sure you have a backup of target terrain data.
 1. Don't set a negative value to the Raise Height unless you know the terrain data inside out.
-
-## Preview
-- Terrain Modifier
-
-![Terrain Modifier](./Attachment/images/TerrainModifier.gif)
 
 ------
 Copyright © 2021 Mogoson.	mogoson@outlook.com
