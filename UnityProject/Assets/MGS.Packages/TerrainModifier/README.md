@@ -10,6 +10,10 @@
 - Unity 5.0 or above.
 - .Net Framework 3.5 or above.
 
+## Version
+
+- 1.0.1
+
 ## Demand
 - Occasionally, you may encounter a catastrophic problem in Unity project, example the terrain has
   been brushed but the demand change to brush a river or basin on the original terrain. if the
