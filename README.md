@@ -1,6 +1,6 @@
 [TOC]
 
-﻿# MGS.TerrainModifier
+# MGS.TerrainModifier
 
 ## Summary
 - Unity Terrain modifier.
