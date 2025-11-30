@@ -1,5 +1,5 @@
 /*************************************************************************
- *  Copyright © 2021 Mogoson. All rights reserved.
+ *  Copyright © 2025 Mogoson. All rights reserved.
  *------------------------------------------------------------------------
  *  File         :  TerrainModifierEditor.cs
  *  Description  :  Modify(up or down) the terrain heightmap data.
@@ -26,7 +26,7 @@ namespace MGS.TerrainModifier.Editors
         #endregion
 
         #region Private Method
-        [MenuItem("Tool/Terrain Modifier &T")]
+        [MenuItem("Tools/Terrain Modifier &T")]
         private static void ShowEditor()
         {
             DisplayWizard("Terrain Modifier", typeof(TerrainModifierEditor), "Modify");
